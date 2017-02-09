@@ -1,0 +1,42 @@
+.page {
+        font: small, Verdana;
+        color: teal;
+        background-image: "../background.jpg";
+        margin-left: 5%;
+}
+
+.org {
+        font-size: medium;
+}
+
+.name {
+        font-size: x-large;
+        font-weight: bold;
+        text-align: center;
+        margin: none;
+}
+
+.section {
+        font-size: large;
+        font-weight: bold;
+}
+
+li {
+        font-size: small;
+}
+
+.italics {
+        font-style: italic;
+}
+
+#pic {
+        height: 80%;
+}
+
+#bio {
+        border-color: teal;
+        width: 50%;
+        height: 75%;
+        padding: 5%;
+        margin: none;
+}
