@@ -1,7 +1,7 @@
 .page {
         font: small, Verdana;
         color: teal;
-        background-image: "../background.jpg";
+        background-image: "/background.jpg";
         margin-left: 5%;
 }
 
@@ -13,7 +13,7 @@
         font-size: x-large;
         font-weight: bold;
         text-align: center;
-        margin: none;
+        margin: auto;
 }
 
 .section {
@@ -21,22 +21,18 @@
         font-weight: bold;
 }
 
-li {
-        font-size: small;
-}
-
 .italics {
         font-style: italic;
 }
 
 #pic {
-        height: 80%;
+        height: 400px;
+        margin: auto;
 }
 
 #bio {
-        border-color: teal;
+        border: 3px solid teal;
         width: 50%;
-        height: 75%;
         padding: 5%;
-        margin: none;
+        margin: auto
 }
